@@ -1,2 +1,2 @@
 print("Vi lär oss Git tillsammans!")
-print("vi ska lösa konflikter")
+print(" vi ska lösa a konflikter")
